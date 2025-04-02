@@ -1,5 +1,3 @@
-### 📄 `README.md` 模板
-
 # 📝 我的 MkDocs 博客
 
 这是我使用 [MkDocs](https://www.mkdocs.org/) + [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) 搭建的个人知识博客，内容涵盖：
