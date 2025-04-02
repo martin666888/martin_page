@@ -1,0 +1,22 @@
+site_name: 我的博客
+theme:
+  name: material
+  language: zh
+  palette:
+    - scheme: default
+      primary: white
+      accent: blue
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.highlight
+    - content.code.copy
+
+nav:
+  - 首页: index.md
+  - 硬件开发:
+      - 入门指南: 硬件开发/入门指南.md
+  - AI工具使用:
+      - ChatGPT技巧: AI工具使用/mcp使用.md
+  - 灵感记录:
+      - 随笔一则: 灵感记录/随笔一则.md
