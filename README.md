@@ -60,13 +60,3 @@ mkdocs serve
 如果你也喜欢写博客，欢迎交流、Star ⭐️ 或 Fork 本项目！
 
 ```
-
----
-
-你可以直接把这份内容保存为项目根目录下的 `README.md`，然后执行以下命令提交到 GitHub：
-
-```bash
-git add README.md
-git commit -m "添加项目介绍 README.md"
-git push
-```
